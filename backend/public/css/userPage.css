@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(11, 246, 246);
+}
+.list{
+    margin: 10px;
+    border: 2px solid white;
+    color: red;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.outer{
+    width:70%
+}

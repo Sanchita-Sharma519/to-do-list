@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(11, 246, 246);
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sign-up{
+    width: 40%;
+    height: 60%;
+    border: 10px solid black;
+    border-radius: 5%;
+    padding: 20px;
+}
+.sign-in{
+    width: 40%;
+    height: 40%;
+    border: 10px solid black;
+    border-radius: 5%;
+    padding: 20px;
+}
+.h11{
+    position: relative;
+    top: -25%;
+    left: 25%;
+}
+.h12{
+    position: relative;
+    top: -35%;
+    left: 25%;
+}
